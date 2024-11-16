@@ -2,7 +2,6 @@ package com.devsuperior.dslist.entities;
 
 import jakarta.persistence.*;
 import lombok.*;
-
 @AllArgsConstructor
 @NoArgsConstructor
 @Getter
